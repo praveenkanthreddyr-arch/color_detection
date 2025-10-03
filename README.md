@@ -30,13 +30,13 @@ color-detection/
 2. Install dependencies
    pip install opencv-python pandas numpy
 ---
-
-##🖥️ Usage
+---
+## 🖥️ Usage
 Run the script with an image:
   ```bash
   python color_detection.py -i colorpic.jpg
 
 ---
-
+---
 ##🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
