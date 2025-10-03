@@ -26,6 +26,7 @@ color-detection/
    ```bash
    git clone https://github.com/your-username/color-detection.git
    cd color-detection
+   ```
 
 2. Install dependencies
    pip install opencv-python pandas numpy
@@ -35,8 +36,9 @@ color-detection/
 Run the script with an image:
   ```bash
   python color_detection.py -i colorpic.jpg
+   ```
 
 ---
----
-##🤝 Contributing
+
+## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
